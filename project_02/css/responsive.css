@@ -1,0 +1,295 @@
+@media (max-width:1250px) {
+
+    .wrap {
+        width: 90%;
+    }
+
+    #banner h1 {
+        font-size: 35px;
+        text-align: center;
+        margin: 33px auto;
+    }
+
+    .card {
+        width: 17%;
+        margin: 1.45%;
+    }
+
+    .card .description {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    #articles {
+        width: 65%;
+    }
+
+    #articles article {
+        width: 97%;
+    }
+
+    #footer .wrap {
+        margin: 0px auto;
+    }
+
+    #footer .wrap div, #footer .wrap nav  {
+        width: 24%;
+        margin: 40px 4.5%;
+    }
+
+    #footer h5 {
+        font-size: 30px;
+    }
+
+    #footer #browsers img {
+        width: 14%;
+    }
+
+}
+
+@media (max-width:1162px) {
+
+    .card .category {
+        font-size: 17px;
+    }
+
+    .card .description {
+        font-size: 14px;
+    }
+
+    #articles {
+        width: 61%;
+    }
+
+}
+
+@media (max-width:1143px) {
+
+    #articles {
+        width: 59%;
+    }
+
+    #footer h5 {
+        font-size: 22px;
+    }
+
+}
+
+@media (max-width:992px) {
+
+    #banner h1 {
+        width: 90%;
+    }
+
+    #lateral {
+        width: 30%;
+    }
+
+    aside .aside-box {
+        width: 95%;
+        height: auto;
+        min-height: 140px;
+    }
+
+    #lateral input[type="text"] {
+        width: 75%;
+    }
+
+    #lateral input[type="button"], #lateral input[type="submit"] {
+        padding-left: 5%;
+    }
+
+    #login input[type="email"], #login input[type="password"] {
+        width: 75%;
+    }
+
+    #login #user {
+        margin-left: 2.5%;
+    }
+
+    #login #password {
+        margin-left: 2.8%;
+    }
+
+    #login input[type="submit"], #login input[type="button"], #login input[type="reset"], #login button {
+        width: 85px;
+    }
+
+    button[type="reset"] {
+        display: none;
+    }
+
+    #login a:last-child {
+        padding-bottom: 20px;
+        margin-right: 18px;
+    }
+
+    #footer #info p > img  {
+        width: 110%;
+    }
+}
+
+@media (max-width:820px) {
+
+    #logo {
+        margin-left: 3px;
+        width: 180px;
+    }
+
+    #logo h3 {
+        margin-right: 40px;
+    }
+
+    #menu ul li {
+        margin: 0px 15px;
+        font-size: 25px;
+    }
+
+    #banner h1 {
+        font-size: 30px;
+    }
+
+    .card {
+        height: auto;
+    }
+
+    .card .category {
+        font-size: 15px;
+        margin-top: -23px;
+    }
+
+    .card .description {
+        display: none;
+    }
+
+    #lateral h3 {
+        font-size: 25px;
+    }
+
+    #articles h2 {
+        font-size: 35px;
+    }
+
+    #articles article h4 {
+        font-size: 20px;
+    }
+
+    #articles article .data {
+        font-size: 10px;
+    }
+
+    #articles article p {
+        font-size: 16px;
+    }
+
+    #footer ul {
+        font-size: 20px;
+    }    
+
+}
+
+@media (max-width:665px) {
+
+    #header {
+        height: auto;
+        padding-top: 10px;
+        
+    }
+
+    #logo {
+        float: none;
+        margin: 0px auto;
+        padding-top: 10px;
+    }
+
+    #menu {
+        float: none;
+        margin: 0px auto;
+        width: 402px;
+    }
+
+    #banner h1 {
+        font-size: 25px;
+    }
+
+    .card:hover .icon {
+        font-size: 50px;
+    }
+
+    #lateral {
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+        min-height: auto;
+        margin-top: 32px;
+    }
+
+    #lateral h3 {
+        font-size: 40px;
+        text-align: center;
+    }  
+
+    #lateral input[type="text"] {
+        width: 90%;
+    }
+
+    #lateral input[type="button"], #lateral input[type="submit"] {
+        padding-left: 1.8%;
+    }
+
+    #login input[type="email"], #login input[type="password"] {
+        width: 92%;
+    }
+
+    button[type="reset"] {
+        display: inline-block;
+    }
+
+    #articles {
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+        min-height: auto;
+    }
+
+    #articles article .data {
+        font-size: 14px;
+    }
+
+    #footer {
+        height: auto;
+        padding-top: 40px;
+    }
+
+    #footer .wrap nav, #footer .wrap div {
+        float: none;
+        width: 100%;
+        height: auto;
+        margin: 0px auto;
+    }
+
+    #footer img {
+        width: 75%;
+    }
+
+    #footer h5 {
+        font-size: 40px;
+    }
+
+    #footer #info {
+        margin-top: 20px;
+    }
+
+    #footer #info > p > img {
+        width: 80%;
+    }
+
+    #footer #info #browsers img {
+        width: 10%;
+    }
+
+    #footer #info p:last-child {
+        padding-bottom: 20px;
+    }
+
+}
